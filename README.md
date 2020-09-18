@@ -34,7 +34,8 @@ fastest in-browser CSV (or delimited text) parser for JavaScript.
 git clone https://github.com/ramasamy1/friendly-engine.github.io.git
 ```
 
-2.	Run npm install(npm i) comment and run ng serve --port 2500 commend.
+2.	Run npm install(npm i) comment then only will create node_modules directory.and 
+    Do build ng build --prod run ng serve --port 2500 commend.
 3.	Access http://localhost:2500 url
 4.	Browse and upload input csv file and output will be displayed in the table
 5.  Import uploaded othan .csv file it will prompt alert and reset,no need refresh page to upload new file just click on RESET  
