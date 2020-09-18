@@ -26,7 +26,7 @@ git clone https://github.com/ramasamy1/friendly-engine.github.io
 2.	Run ng build comment and run ng serve --port 2500 commend.
 3.	Access http://localhost:2500 url
 4.	Browse and upload input csv file and output will be displayed in the table
-5.  Import uploaded othan .csv file it will prompt alert and reset,no need refresh page to upload new file just click on RES  
+5.  Import uploaded othan .csv file it will prompt alert and reset,no need refresh page to upload new file just click on RESET  
 6.	Also,User can able to search/filter data using filter text box. The values will be filtered based on issuecount column.
 
 ### Screen Shots:
