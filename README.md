@@ -20,7 +20,7 @@ issues.csv file.
 # Steps to run the application
 1.	Clone the project
 ```bash
-git clone https://github.com/ramasamy1/friendly-engine.github.io
+git clone https://github.com/ramasamy1/friendly-engine.github.io.git
 ```
 
 2.	Run ng build comment and run ng serve --port 2500 commend.
