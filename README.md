@@ -22,7 +22,7 @@ issues.csv - try to upload file without blank space and valid csv file
 ## Plugin:
 https://www.npmjs.com/package/papaparse
 run this command to install this plugin : npm install papaparse
-Papa Parse is the fastest in-browser CSV (or delimited text) parser for JavaScript.
+fastest in-browser CSV (or delimited text) parser for JavaScript.
 
 ## Expected Output :
 * User should be able to upload input file from local computer and see the results on screen.
