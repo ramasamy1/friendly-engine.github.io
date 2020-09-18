@@ -1,6 +1,18 @@
 # friendly-engine.github.io
 Upload CSV File and Filter Records
 
+# Angularcsvfilter
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.1.
+
+## Development server
+
+Run `ng serve` for a dev server. Navigate to `http://localhost:2500/`. The app will automatically reload if you change any of the source files.
+
+## Build
+
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+
 # Rabobank
 Create an Angular app that is capable of importing the attached csv-file and visualize it on the screen.
 
