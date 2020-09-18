@@ -5,7 +5,7 @@ Upload CSV File and Filter Records
 Create an Angular app that is capable of importing the attached csv-file and visualize it on the screen.
 
 ## Input : 
-record.csv file.
+issues.csv file.
 ```bash
 “fname”,”lname”,”issueCount”,”dateOfBirth”
 "Theo","Jansen",5,"Jun 02 1998"
