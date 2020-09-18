@@ -17,7 +17,12 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 Create an Angular app that is capable of importing the attached csv-file and visualize it on the screen.
 
 ## Input : 
-issues.csv file.
+issues.csv - try to upload file without blank space and valid csv file
+
+## Plugin:
+https://www.npmjs.com/package/papaparse
+run this command to install this plugin : npm install papaparse
+Papa Parse is the fastest in-browser CSV (or delimited text) parser for JavaScript.
 
 ## Expected Output :
 * User should be able to upload input file from local computer and see the results on screen.
